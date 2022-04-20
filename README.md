@@ -6,3 +6,7 @@ I'll also be practicing my basic CSS/HTML skills.
 For example, setting up the boilerplate and structuring the content in HTML.
 As well as giving that content color, size, and interactivity in CSS. 
 Finally, I'll be commiting with Git each step of the way, and pushing to the main repo on Github!
+
+# After completion
+I grappled with flexbox some more and learned a few things.
+The process is mostly trying out what works and what doesn't, until I gain a better understanding.
